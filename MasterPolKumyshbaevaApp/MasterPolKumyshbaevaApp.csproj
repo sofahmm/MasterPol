@@ -155,6 +155,7 @@
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <None Include="Документация\Сессия 1.pdf" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
